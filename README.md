@@ -1,4 +1,4 @@
-# SnakeGameW
+# HTMLSnakeGame
 
 A simple, browser-based Snakey game built with HTML and JavaScript.
 
@@ -9,7 +9,7 @@ A simple, browser-based Snakey game built with HTML and JavaScript.
 - Score tracking
 - Game over detection
 
-## How to Play SnakeGameW?
+## How to Play HTMLSnakeGame?
 
 To play the game follow these steps:
 
