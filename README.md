@@ -8,6 +8,9 @@ A simple, browser-based Snakey game built with HTML and JavaScript.
 - Responsive controls using arrow keys
 - Score tracking
 - Game over detection (GAME OVER!)
+- new leaderboard tracking
+- press space for pause
+- mobile friendly
 
 ## How to Play HTMLSnakeGame?
 
