@@ -23,3 +23,8 @@ To play the game follow these steps:
 5. otherwise, have fun!
   OR you can..
 Play it here:- https://them1ddlem1n.github.io/HTMLSnakeGame/
+
+
+## Bugs that need fixing
+
+Keys for mobile layout need repositioning (right and left are in wrong place) 
