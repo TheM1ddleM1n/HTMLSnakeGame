@@ -20,4 +20,6 @@ To play the game follow these steps:
 2. Open `SnakeGame.html` in any modern web browser.
 3. Use the arrow keys to control the snake.
 4. Eat the food, grow longer, and avoid crashing into yourself!
-5. otherwise, enjoy!
+5. otherwise, have fun!
+  OR you can..
+Play it here:- https://them1ddlem1n.github.io/HTMLSnakeGame/
