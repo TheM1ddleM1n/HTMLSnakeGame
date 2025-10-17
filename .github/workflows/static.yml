@@ -1,4 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
+# A simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
@@ -22,7 +22,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
+  # Single deploy job cause we are just applying this to pages lol
   deploy:
     environment:
       name: github-pages
