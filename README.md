@@ -27,4 +27,4 @@ Play it here:- https://them1ddlem1n.github.io/HTMLSnakeGame/
 
 ## Bugs that need fixing
 
-im going to fix this now (Keys for mobile layout need repositioning right and left are in wrong place) 
+Fixed but phone layout needs improving
