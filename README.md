@@ -1,6 +1,6 @@
 ### HTMLSnakeGame
 
-A simple, browser-based Snakey game built with HTML and JavaScript.
+A simple, browser-based Snakey game built with HTML and JavaScript!
 
 ## Features
 
@@ -27,4 +27,4 @@ Play it here:- https://them1ddlem1n.github.io/HTMLSnakeGame/
 
 ## Bugs that need fixing
 
-Keys for mobile layout need repositioning (right and left are in wrong place) 
+im going to fix this now (Keys for mobile layout need repositioning right and left are in wrong place) 
